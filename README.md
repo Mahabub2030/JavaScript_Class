@@ -1,16 +1,14 @@
-# Vanilla JS Projects
+# Mahabub JS Projects
 
-#### Enroll In The Course
+#### 
 
-[My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
+
 
 #### Support
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
+Find the Content Useful? 
 ## You can see all projects in action here
 
-[Projects](https://www.vanillajavascriptprojects.com/)
 
 1. Color Flipper
 2. Counter
@@ -30,17 +28,3 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 #### Course Exclusive
 
-16. Counters (OOP)
-17. Gallery (OOP)
-18. Numbers
-19. Dark Mode
-20. Filters
-21. Dad Jokes
-22. Products
-23. Random User
-24. Cocktails
-25. Slider
-26. Stripe Submenus
-27. Pagination
-28. Wikipedia
-29. Comfy Sloth
